@@ -1,0 +1,102 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 300,
+    "haskell.manageHLS": "GHCup",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "vim.useSystemClipboard": true,
+    "vim.insertModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "k",
+                "l"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        },
+        {
+            "before": [
+                "l",
+                "k"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        },
+    ],
+    "vim.visualModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "k",
+                "l"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        },
+        {
+            "before": [
+                "l",
+                "k"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        },
+    ],
+    "vim.incsearch": true,
+    "vim.hlsearch": true,
+    "vim.timeout": 250,
+    "autopep8.args": [
+        "--max-line-length",
+        "500"
+    ],
+    "vim.handleKeys": {
+        "<C-d>": true,
+        "<C-s>": false,
+        "<C-z>": false,
+        "<C-p>": false,
+    },
+    "notebook.lineNumbers": "on",
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.experiments.enabled": false,
+    "jupyter.debugJustMyCode": false,
+    "notebook.output.scrolling": true,
+    "update.showReleaseNotes": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[ocaml]": {
+        "editor.tabSize": 2,
+        // "editor.rulers": [ 80 ],
+        "editor.formatOnSave": true
+    },
+    "[ocaml.interface]": {
+        "editor.tabSize": 2,
+        // "editor.rulers": [ 80 ],
+        "editor.formatOnSave": true
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "Consolas, 'Courier New', monospace, 'Perfect DOS VGA 437 Win'",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "javascript.format.semicolons": "insert",
+    "typescript.format.semicolons": "insert",
+    "workbench.editor.closeEmptyGroups": false,
+    "[leojsbody.plain.wrap][leojsbody.julia.wrap][leojsbody.batch.wrap][leojsbody.shell.wrap][leojsbody.python.wrap][leojsbody.javascript.wrap][leojsbody.typescript.wrap][leojsbody.c.wrap][leojsbody.cpp.wrap][leojsbody.css.wrap][leojsbody.fortran.wrap][leojsbody.fortran90.wrap][leojsbody.html.wrap][leojsbody.java.wrap][leojsbody.json.wrap][leojsbody.markdown.wrap][leojsbody.php.wrap][leojsbody.restructuredtext.wrap][leojsbody.rust.wrap][leojsbody.xml.wrap]": {
+        "editor.wordWrap": "on"
+    },
+    "leojs.leoID": "pjd",
+    "markdown.updateLinksOnFileMove.enabled": "prompt",
+}
