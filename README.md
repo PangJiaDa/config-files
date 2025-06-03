@@ -1,2 +1,2 @@
 # config-files
-For configs or dot-files that I want available anywhere.
+For configs or dot-files to be easily accessible.
