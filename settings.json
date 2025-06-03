@@ -99,4 +99,5 @@
     },
     "leojs.leoID": "pjd",
     "markdown.updateLinksOnFileMove.enabled": "prompt",
+    "writeTimestamp.bCustomFormat": "y-mm-dd @ HH:MM:SSZZ"
 }
